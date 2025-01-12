@@ -1,0 +1,5 @@
+print("Hello World!")
+print("Seja bem vindo ao mundo pyhton!")
+print("Esta é a hora:")
+time.gmtime(0)
+print("Tchau")

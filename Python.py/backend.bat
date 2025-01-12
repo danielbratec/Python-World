@@ -1,0 +1,1 @@
+echo Fim da inicializacao dos arquivos :)
